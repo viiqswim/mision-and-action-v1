@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Misión y Acción',
-  description: 'La mision es ayudar al planeta con accion',
+  description: 'La mision es mejor al planeta con accion',
   coverImage: 'img/blog-cover.png',
   // logo: 'img/mision-and-accion-logo.png',
   logo: '',
